@@ -7,7 +7,7 @@ A clean, production-ready Google OAuth implementation for React applications.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/TaskTrial/google
 cd google
 ```
 
